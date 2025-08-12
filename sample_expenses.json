@@ -1,0 +1,16 @@
+﻿[
+  {
+    "id": "1",
+    "name": "Sample",
+    "amount": 100,
+    "date": "2025-08-12",
+    "category": "misc"
+  },
+  {
+    "id": "2",
+    "name": "Tea",
+    "amount": 20,
+    "date": "2025-08-12",
+    "category": "food"
+  }
+]
